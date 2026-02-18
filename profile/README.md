@@ -3,7 +3,10 @@
 </p>
 
 
+<p align="center">
 We design, prototype and deploy physical AI machines that combine robotics, embedded systems, computer vision and voice intelligence into cohesive, real-world architectures.
+</p>
+
 
 ---
 

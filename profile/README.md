@@ -33,8 +33,7 @@ Advanced research iteration expanding architecture, perception and system intell
 
 ## Founder
 
-Founded by [Aman Vishwas](https://github.com/amanvishwas-ai)  
-Research-driven. Engineering-focused. System-oriented.
+Founded by [Aman Vishwas](https://github.com/amanvishwas-ai)  — systems-focused engineer building next-generation physical AI architectures.
 
 ---
 

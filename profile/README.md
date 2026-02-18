@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1k7qEDurzDGqxm59JQwsDVpd00iGJIzeW" width="800">
+  <img src="https://drive.google.com/uc?export=view&id=1k7qEDurzDGqxm59JQwsDVpd00iGJIzeW" width="650">
 </p>
 
 
